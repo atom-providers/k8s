@@ -40,8 +40,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
-github.com/atom-providers/log v0.0.0-20230731102101-c690ec235b6c h1:2JUc0gMbDLVTVaS3H8ENI8S2MSEFMgSiUli077Vi8V4=
-github.com/atom-providers/log v0.0.0-20230731102101-c690ec235b6c/go.mod h1:7nrpuhNtaZ6yzMFnQQIvplFvEi1L6kkUS3tVqpU8iMU=
+github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343 h1:BNb31rRFp5CzPj+2roXvCXY40J2J1nagWwseGHfF4cA=
+github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343/go.mod h1:TmYPPzMDqlcUiQUodKomCVyXZwFyMuOuEwPUfkcEhRs=
 github.com/benbjohnson/clock v1.1.0 h1:Q92kusRqC1XV2MjkWETPvjJVqKetz1OzxZB7mHJLju8=
 github.com/buger/jsonparser v1.1.1/go.mod h1:6RYKKt7H4d4+iWqouImQ9R2FZql3VbhNgx27UK13J/0=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
